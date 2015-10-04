@@ -24,6 +24,6 @@ console.log(fileName);
 	}
 
 	else{
-console(err);
+console("Error:"+err);
 	}
 }
